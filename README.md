@@ -92,6 +92,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 └── README.md
 ```
 
-## License
-
-Add a license of your choice (for example MIT). The dataset is released by its authors under the Database Contents License (DbCL) v1.0.
